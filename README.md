@@ -17,3 +17,7 @@
    * β: weight of style loss
     
 ### More detail in NST_report
+
+## Output Example
+
+ TODO
