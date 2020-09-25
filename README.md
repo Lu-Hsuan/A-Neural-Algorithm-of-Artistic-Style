@@ -19,5 +19,6 @@
 ### More detail in NST_report
 
 ## Output Example
-
- TODO
+![c1](https://github.com/Lu-Hsuan/A-Neural-Algorithm-of-Artistic-Style/blob/master/example_img/mix_c1.png)
+    
+![c2](https://github.com/Lu-Hsuan/A-Neural-Algorithm-of-Artistic-Style/blob/master/example_img/mix_c2.png)
